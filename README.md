@@ -34,3 +34,16 @@ Netflixclone/
 ## 📌 How to Run
 
 1. Download or clone the repository:
+2. git clone https://github.com/Yash7720/Netflix-Clone/tree/main
+3. 2. Open `index.html` in your browser.
+
+> ⚠️ This is a front-end clone and does not include any real movie streaming or backend functionality.
+
+## ✨ Credits
+
+Inspired by Netflix UI for educational and portfolio purposes.
+
+## 🪪 License
+
+This project is licensed for personal and educational use only.
+
