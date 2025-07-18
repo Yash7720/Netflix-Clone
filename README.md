@@ -31,11 +31,6 @@ Netflixclone/
 │ └── script.js
 └── index.html
 
-
-## 📸 Preview
-
-![Netflix Clone Preview]("C:\Users\YASH\OneDrive\Pictures\Screenshots\netflix.png")
-
 ## 📌 How to Run
 
 1. Download or clone the repository:
